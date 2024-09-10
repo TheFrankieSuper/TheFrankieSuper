@@ -1,5 +1,10 @@
-## Hi there 👋
+## Всем привет! 👋
 
+Меня зовут Пётр Павлюк, я - начинающий тестировщик.
+
+## Моё резюме
+
+https://drive.google.com/file/d/1S2wYnLl6zSDpZFW2E6iVtehlHBTfW9Td/view?usp=sharing
 <!--
 **TheFrankieSuper/TheFrankieSuper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
