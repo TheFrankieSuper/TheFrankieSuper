@@ -4,7 +4,7 @@
 
 ## Моё резюме
 
-<a href="https://drive.google.com/file/d/1S2wYnLl6zSDpZFW2E6iVtehlHBTfW9Td/view?usp=sharing">Моё резюме</a>
+<a href="https://drive.google.com/file/d/1erbmyP52_PFX91Rf5XIKyty3yMiGxOAy/view?usp=sharing">Моё резюме</a>
 
 ## Портфолио
 
